@@ -28,7 +28,7 @@ The file contains a Jupyter notebook and the dataset.
 
 1. mini_sparkify_event_data.json: This is the dataset used throughout the notebook. This is a subset of the full dataset in order to be able to work on a local machine. The dataset contains one row for each event on the streaming platform.
 
-2.sparkify-churn-notebook.ipynb: This notebook contains all the steps of the project. It first loads the data, cleans it, explore it, creates the required features through features engineering and finally create a model to predict the customers who churned from the streaming platform.
+2. sparkify-churn-notebook.ipynb: This notebook contains all the steps of the project. It first loads the data, cleans it, explore it, creates the required features through features engineering and finally create a model to predict the customers who churned from the streaming platform.
 
 ## Results<a name="results"></a>
 
