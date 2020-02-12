@@ -20,7 +20,7 @@ The goal of this project is to predict the customers who have churned from a mus
 
 My goal is to identify the customers who churned. I can recognize them by looking at the customers who have cancelled their subscription and therefore ended up on the page "Cancellation Confirmed". I will measure the performance of our model based on the F1 score, which takes into account both precision and recall. Given that the churned customers represent only 23% of our dataset, this will give me a better representation of how well our model is predicting which customers did or did not churn.
 
-You can consult this full Medium post in order to have more information about the project and its realisation: https://medium.com/@julietrinco/should-i-stay-or-should-i-go-predicting-customer-churn-on-a-music-streaming-platform-26e636b6f221 (DRAF LINK TO CHANGE).
+You can consult this full Medium post in order to have more information about the project and its realisation: https://medium.com/@julietrinco/should-i-stay-or-should-i-go-predicting-customer-churn-on-a-music-streaming-platform-26e636b6f221
 
 ## File Descriptions <a name="files"></a>
 
